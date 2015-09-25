@@ -1,0 +1,11 @@
+﻿Name: Cascade.FlipCard
+AntiForgery: enabled
+Author: Dave Gardner based on library by Jiping Hu (jping.hu@gmail.com)
+Website: http://bigsitesdoneright.com	
+Version: 1.0
+OrchardVersion: 1.7
+Dependencies: Orchard.Jquery
+Description: FlipCard.js implements card filp animation with javascript, css3 and html5. It's fully customizable with either html5 "data-*" attributes or options in javascript. It also supports all modern browsers which including chrome 16+, firefox 12+, safari 5+, opera 12+, and IE10+
+Features:
+    Cascade.FlipCard:
+        Description: Flipcard animator.
